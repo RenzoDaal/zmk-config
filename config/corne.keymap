@@ -60,7 +60,7 @@
 
             bindings = <
 &sys_reset       &kp F1           &kp F2           &kp F3           &kp F4           &kp F5             &kp F6        &kp F7        &kp F8        &kp F9           &kp F10          &rgb_ug RGB_EFR
-&BT_CLR          &kp C_PREVIOUS   &kp C_NEXT       &kp C_VOL_DN     &kp C_VOLUME_UP  &kp C_PLAY         &kp LEFT      &kp DOWN      &kp UP_ARROW  &kp RIGHT        &trans           &rgb_ug RGB_EFF
+&bt BT_CLR          &kp C_PREVIOUS   &kp C_NEXT       &kp C_VOL_DN     &kp C_VOLUME_UP  &kp C_PLAY         &kp LEFT      &kp DOWN      &kp UP_ARROW  &kp RIGHT        &trans           &rgb_ug RGB_EFF
 &rgb_ug RGB_HUD  &rgb_ug RGB_HUI  &rgb_ug RGB_SAD  &rgb_ug RGB_SAI  &rgb_ug RGB_BRD  &rgb_ug RGB_BRI    &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3     &bt BT_SEL 4     &rgb_ug RGB_TOG
                                                    &trans           &trans           &trans             &trans        &trans        &trans
             >;
